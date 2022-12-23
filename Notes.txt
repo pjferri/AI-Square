@@ -1,0 +1,7 @@
+Make it so that the path gradually gets darker as it retraces it's steps
+Make the main ai square stop moving when it gets to the end rather than just closing the whole program
+Remove the numbers around the side
+Add obstacles
+Update colors
+Post to Github
+Post on your Website
